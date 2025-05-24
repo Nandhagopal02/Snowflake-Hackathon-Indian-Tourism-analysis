@@ -23,11 +23,17 @@ Versioning	GitHub
 📂 Folder Structure
 =
 my_tourism_dashboard/
-├── streamlit_app.py             # Main app
+
+├── streamlit_app.py  # Main app
+
 ├── Images/                       # Additional pages
+
 ├── data/tourism_data.csv        # CSV dataset
+
 ├── images/state_images/         # Top places images
+
 ├── utils/helpers.py             # Reusable code
+
 ├── environment.yml              # Python dependencies
 
 
