@@ -1,0 +1,61 @@
+STATE_UT,YEAR,FOREIGN_TOURIST_ARRIVALS_MILLIONS,DOMESTIC_TOURIST_VISITS_MILLIONS,TOTAL_VISITORS_MILLIONS,RANK_BY_FTA,RANK_BY_DTV,ANNUAL_GROWTH_RATE_FOREIGN,ANNUAL_GROWTH_RATE_DOMESTIC,ANNUAL_GROWTH_RATE_TOTAL,POPULAR_TOURIST_SITES,CATEGORY_AGE_WISE,TOURISM_REVENUE_CRORES,REGION,PRIMARY_MODE_OF_ENTRY,TOP_3_COUNTRIES_OF_FOREIGN_TOURISTS,MONUMENT_VISITS_MILLIONS
+Andhra Pradesh,2021,4.714,45.233,49.947,18,9,148.96,150.38,149.67,NA,14%/ 23%/ 24%/ 9%,13136.01,South,Land,"Australia, USA, Canada",16.71
+Andhra Pradesh,2022,1.762,322.963,324.725,28,4,75.73,167.2,121.47,NA,14%/ 23%/ 37%/ 19%,11582.95,South,Air,"Bangladesh, UK, Australia",12.97
+Tamil Nadu,2021,6.03,131.027,137.057,24,4,104.68,170.18,137.43,NA,10%/ 30%/ 39%/ 14%,4984.82,South,Air,"UK, Canada, Russia",15.98
+Tamil Nadu,2022,5.608,303.377,308.985,14,20,221.57,140.2,180.88,NA,35%/ 34%/ 32%/ 9%,8167.21,South,Sea,"Canada, Australia, USA",3.86
+Uttar Pradesh,2021,5.143,177.986,183.129,16,18,248.35,194.89,221.62,NA,31%/ 32%/ 40%/ 8%,8898.93,North,Land,"UK, Bangladesh, USA",16.6
+Uttar Pradesh,2022,5.723,185.04,190.763,4,1,206.02,49.24,127.63,NA,10%/ 33%/ 33%/ 16%,849.04,North,Sea,"Sri Lanka, Bangladesh, Australia",8.6
+Karnataka,2021,5.646,218.256,223.902,15,5,161.09,105.93,133.51,NA,26%/ 22%/ 39%/ 8%,3239.52,South,Land,"Russia, UK, Bangladesh",18.65
+Karnataka,2022,5.351,221.06,226.411,23,22,3.76,106.99,55.38,NA,36%/ 40%/ 29%/ 18%,13182.16,South,Sea,"USA, Russia, Bangladesh",16.88
+Gujarat,2021,1.668,202.897,204.565,12,6,-39.76,30.72,-4.52,NA,17%/ 27%/ 22%/ 14%,12629.38,West,Sea,"Russia, France, UK",22.67
+Gujarat,2022,2.599,280.096,282.695,7,24,114.86,75.97,95.41,NA,38%/ 22%/ 39%/ 17%,3229.93,West,Sea,"UK, USA, Canada",21.82
+West Bengal,2021,3.956,89.55,93.506,12,8,88.23,95.14,91.69,NA,25%/ 36%/ 37%/ 16%,2149.7,East,Air,"Russia, France, UK",0.64
+West Bengal,2022,2.524,292.627,295.151,7,10,64.81,84.99,74.9,NA,26%/ 22%/ 26%/ 8%,3701.99,East,Air,"Sri Lanka, France, Australia",11.17
+Maharashtra,2021,4.79,229.469,234.259,7,4,101.42,193.69,147.56,NA,21%/ 26%/ 29%/ 13%,330.52,West,Air,"Canada, Russia, UK",23.16
+Maharashtra,2022,3.601,73.431,77.032,17,4,264.24,66.05,165.15,NA,35%/ 24%/ 21%/ 11%,4467.46,West,Land,"Sri Lanka, Canada, Russia",14.57
+Delhi,2021,4.976,272.543,277.519,17,4,267.79,2.41,135.1,NA,31%/ 24%/ 22%/ 5%,2466.39,North,Air,"USA, Australia, Sri Lanka",8.74
+Delhi,2022,5.753,272.156,277.909,27,27,-23.88,158.39,67.25,NA,22%/ 23%/ 28%/ 20%,13386.42,North,Air,"France, UK, Canada",1.69
+Rajasthan,2021,4.652,196.348,201.0,16,11,250.09,-43.94,103.08,NA,27%/ 22%/ 38%/ 16%,9411.59,West,Air,"Bangladesh, Australia, UK",18.37
+Rajasthan,2022,2.368,38.906,41.274,14,13,97.76,169.95,133.85,NA,15%/ 28%/ 36%/ 14%,3883.78,West,Sea,"Canada, Bangladesh, France",17.19
+Kerala,2021,6.162,25.292,31.454,9,19,250.5,158.17,204.33,NA,15%/ 21%/ 22%/ 19%,9296.71,South,Air,"Australia, Sri Lanka, Canada",19.32
+Kerala,2022,6.269,256.201,262.47,21,15,292.51,115.49,204.0,NA,29%/ 38%/ 20%/ 15%,8277.59,South,Land,"Sri Lanka, Bangladesh, France",13.91
+Punjab,2021,5.179,69.737,74.916,2,22,-38.8,38.42,-0.19,NA,33%/ 32%/ 20%/ 15%,4099.34,North,Air,"UK, France, USA",18.22
+Punjab,2022,4.292,48.532,52.824,16,1,287.44,127.81,207.62,NA,37%/ 31%/ 30%/ 18%,13219.89,North,Sea,"Canada, Australia, USA",10.03
+Madhya Pradesh,2021,4.781,25.408,30.189,12,3,132.05,119.25,125.65,NA,32%/ 25%/ 23%/ 10%,81.52,Central,Land,"Canada, Sri Lanka, Australia",21.65
+Madhya Pradesh,2022,6.609,212.227,218.836,24,11,9.76,-38.75,-14.5,NA,33%/ 35%/ 20%/ 9%,5085.03,Central,Air,"USA, Bangladesh, Australia",0.4
+Jharkhand,2021,6.858,21.999,28.857,11,27,86.73,18.87,52.8,NA,33%/ 23%/ 25%/ 16%,9596.9,East,Land,"USA, Bangladesh, Sri Lanka",23.91
+Jharkhand,2022,2.468,331.937,334.405,4,15,22.89,171.79,97.34,NA,34%/ 36%/ 36%/ 9%,3464.94,East,Air,"Sri Lanka, UK, Russia",8.85
+Goa,2021,1.253,212.776,214.029,19,9,184.81,60.67,122.74,NA,13%/ 21%/ 30%/ 17%,8309.36,West,Air,"Canada, Sri Lanka, Australia",20.36
+Goa,2022,4.901,324.068,328.969,30,4,167.92,-44.98,61.47,NA,31%/ 33%/ 28%/ 8%,10990.84,West,Air,"Sri Lanka, Russia, France",3.18
+Odisha,2021,5.735,156.806,162.541,11,2,-52.14,178.78,63.32,NA,32%/ 26%/ 38%/ 6%,11750.4,East,Sea,"Sri Lanka, Australia, UK",19.83
+Odisha,2022,5.461,61.27,66.731,23,27,288.84,86.64,187.74,NA,18%/ 33%/ 40%/ 14%,6982.94,East,Land,"UK, Australia, Canada",12.32
+Assam,2021,5.992,321.183,327.175,21,2,234.72,132.5,183.61,NA,24%/ 33%/ 33%/ 5%,14970.52,North-East,Sea,"Sri Lanka, USA, Bangladesh",18.29
+Assam,2022,0.382,314.159,314.541,29,4,291.94,36.36,164.15,NA,37%/ 29%/ 40%/ 15%,4922.75,North-East,Air,"France, USA, Canada",14.9
+Bihar,2021,6.805,342.523,349.328,19,13,2.91,147.44,75.17,NA,25%/ 35%/ 39%/ 20%,5991.02,East,Air,"Bangladesh, Russia, Canada",23.96
+Bihar,2022,5.176,349.238,354.414,29,12,185.57,168.79,177.18,NA,32%/ 37%/ 26%/ 10%,3285.18,East,Land,"UK, Bangladesh, USA",3.19
+Chhattisgarh,2021,0.812,29.282,30.094,4,22,-53.58,-11.22,-32.4,NA,11%/ 35%/ 23%/ 9%,7876.13,Central,Sea,"Bangladesh, Canada, Sri Lanka",15.06
+Chhattisgarh,2022,1.606,204.965,206.571,30,7,43.75,150.59,97.17,NA,15%/ 25%/ 28%/ 11%,9370.0,Central,Land,"USA, Canada, UK",24.49
+Himachal Pradesh,2021,5.474,310.369,315.843,4,26,154.15,36.4,95.28,NA,13%/ 24%/ 21%/ 10%,1472.46,North,Land,"Canada, UK, Australia",3.52
+Himachal Pradesh,2022,2.017,92.117,94.134,23,29,160.34,131.46,145.9,NA,21%/ 23%/ 24%/ 20%,145.67,North,Sea,"USA, France, Australia",0.19
+Jammu & Kashmir,2021,5.979,161.857,167.836,2,30,53.58,26.94,40.26,NA,37%/ 25%/ 40%/ 11%,14870.74,North,Land,"Australia, Sri Lanka, Russia",22.99
+Jammu & Kashmir,2022,5.838,57.752,63.59,14,13,5.34,-34.08,-14.37,NA,17%/ 34%/ 20%/ 12%,11360.13,North,Air,"USA, Sri Lanka, Russia",1.95
+Telangana,2021,5.019,239.335,244.354,12,3,182.53,42.11,112.32,NA,29%/ 25%/ 31%/ 17%,5034.43,South,Air,"Canada, France, Sri Lanka",10.93
+Telangana,2022,2.196,187.09,189.286,5,2,-55.78,35.15,-10.32,NA,22%/ 31%/ 38%/ 16%,2432.3,South,Air,"Bangladesh, USA, UK",10.82
+Haryana,2021,4.446,159.24,163.686,14,27,19.08,198.23,108.66,NA,30%/ 33%/ 36%/ 16%,4612.67,North,Sea,"Russia, UK, Australia",8.26
+Haryana,2022,5.063,97.021,102.084,2,4,-50.63,150.2,49.78,NA,35%/ 35%/ 24%/ 14%,14109.18,North,Sea,"Australia, Russia, Sri Lanka",20.05
+Tripura,2021,1.152,113.874,115.026,28,7,-21.6,116.65,47.53,NA,20%/ 37%/ 40%/ 10%,2650.23,North-East,Land,"Russia, Canada, Bangladesh",7.4
+Tripura,2022,0.236,232.553,232.789,13,16,-0.33,160.4,80.03,NA,38%/ 25%/ 30%/ 11%,13797.47,North-East,Sea,"Australia, Russia, Sri Lanka",4.69
+Nagaland,2021,3.488,256.892,260.38,10,20,58.98,190.76,124.87,NA,23%/ 23%/ 23%/ 15%,10722.89,North-East,Land,"Sri Lanka, Canada, Australia",13.43
+Nagaland,2022,2.894,347.8,350.694,20,4,90.6,112.93,101.77,NA,13%/ 25%/ 36%/ 6%,6605.17,North-East,Land,"USA, Canada, Australia",17.62
+Manipur,2021,0.076,224.049,224.125,29,17,94.78,156.4,125.59,NA,24%/ 40%/ 28%/ 5%,14815.38,North-East,Land,"Canada, USA, Russia",23.86
+Manipur,2022,6.114,142.822,148.936,6,28,103.31,1.5,52.41,NA,25%/ 22%/ 32%/ 11%,13610.75,North-East,Air,"Canada, Australia, UK",2.64
+Sikkim,2021,0.838,184.597,185.435,14,3,74.61,-12.76,30.93,NA,13%/ 30%/ 20%/ 13%,7415.8,North-East,Air,"Russia, Australia, UK",8.01
+Sikkim,2022,3.968,339.242,343.21,9,28,94.29,96.62,95.46,NA,16%/ 20%/ 24%/ 20%,13723.34,North-East,Air,"Canada, Bangladesh, UK",6.56
+Meghalaya,2021,0.702,142.713,143.415,25,20,252.75,38.28,145.51,NA,39%/ 33%/ 36%/ 17%,7899.89,North-East,Land,"Bangladesh, Australia, Sri Lanka",17.67
+Meghalaya,2022,4.343,198.119,202.462,29,12,69.68,-19.32,25.18,NA,38%/ 23%/ 26%/ 20%,10471.78,North-East,Sea,"Sri Lanka, Russia, UK",3.61
+Uttarakhand,2021,5.61,218.515,224.125,12,20,104.97,53.4,79.19,NA,10%/ 25%/ 35%/ 19%,13787.85,North,Sea,"Russia, UK, Canada",16.98
+Uttarakhand,2022,4.827,122.747,127.574,27,1,286.91,185.56,236.24,NA,29%/ 21%/ 31%/ 9%,13418.31,North,Sea,"Russia, Sri Lanka, USA",7.09
+Puducherry,2021,4.889,101.159,106.048,8,24,162.95,194.31,178.63,NA,40%/ 26%/ 26%/ 20%,4653.52,South,Air,"Bangladesh, France, Sri Lanka",23.76
+Puducherry,2022,5.762,297.052,302.814,26,15,272.45,178.45,225.45,NA,26%/ 25%/ 40%/ 13%,8176.88,South,Air,"USA, Canada, Russia",19.56
+Chandigarh,2021,0.816,344.066,344.882,1,29,-53.99,135.54,40.77,NA,37%/ 33%/ 21%/ 18%,8740.67,North,Land,"France, Bangladesh, UK",20.95
+Chandigarh,2022,1.032,289.823,290.855,2,18,241.6,158.22,199.91,NA,12%/ 32%/ 20%/ 6%,7816.48,North,Sea,"UK, USA, Russia",4.82
